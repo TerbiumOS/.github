@@ -1,4 +1,4 @@
-<img src="landing.png" style="border-radius: 8px;" width="400px">
+<img src="landing.png" style="border-radius: 8px;" width="420px">
 
 ## Devs
 - [SNOOT (Founder)](https://github.com/NovaAppsInc)
