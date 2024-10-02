@@ -3,8 +3,7 @@
 ## Projects
 
 - [Legacy webOS](https://github.com/terbiumos/webOS) - The original version of Terbium webOS
-- [TB Next](https://github.com/terbiumos/) - The NextJS Version of Terbium webOS v2
-- [TB Alice](https://github.com/terbiumos/) - The AliceJS Version of Terbium webOS v2
+- [TB v2](https://github.com/terbiumos/) - The next generation of Terbium webOS
 - [TML Lang](https://github.com/terbiumos/tml) - A HTML like markup language to build native apps on Terbium webOS v2
 - [App Repo](https://github.com/terbiumos/app-repo) - The application repository for Terbium webOS v2
 
